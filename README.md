@@ -20,11 +20,11 @@ Obiektem sterowania jest ciśnieniowy bojler wodny (podgrzewacz) o pojemności *
 
 ## 2. Struktura repozytorium
 
-* [`WORKFLOW.md`](./WORKFLOW.md) – Mapa myśli, podział prac na 2 osoby oraz checklista odbiorowa projektu.
-* [`OBLICZENIA_I_OPIS.md`](./OBLICZENIA_I_OPIS.md) – Obliczenia prądów roboczych, dobór zabezpieczeń zwarciowych/przeciążeniowych, dobór przewodów, ochrona przeciwporażeniowa oraz kod programu PLC.
-* [`BOM_ELEMENTY.md`](./BOM_ELEMENTY.md) – Zestawienie wszystkich użytych elementów (aparatura, czujniki, szafa) z kodami katalogowymi oraz lista wejść/wyjść PLC.
-* [`SEE_ELECTRICAL_GUIDE.md`](./SEE_ELECTRICAL_GUIDE.md) – Instrukcja krok po kroku rysowania 4 arkuszy schematów zasadniczych, zabudowy rozdzielnicy 2D oraz generowania raportów w SEE Electrical.
-* [`INTOUCH_GUIDE.md`](./INTOUCH_GUIDE.md) – Instrukcja wykonania aplikacji SCADA w InTouch (baza 21 tagów, pełny kod skryptu symulacyjnego, logowanie 2 użytkowników, obsługa alarmów bieżących i historycznych).
+* [`WORKFLOW.md`](/MD_Notes/WORKFLOW.md) – Mapa myśli, podział prac na 2 osoby oraz checklista odbiorowa projektu.
+* [`OBLICZENIA_I_OPIS.md`](/MD_Notes/OBLICZENIA_I_OPIS.md) – Obliczenia prądów roboczych, dobór zabezpieczeń zwarciowych/przeciążeniowych, dobór przewodów, ochrona przeciwporażeniowa oraz kod programu PLC.
+* [`BOM_ELEMENTY.md`](/MD_Notes/BOM_ELEMENTY.md) – Zestawienie wszystkich użytych elementów (aparatura, czujniki, szafa) z kodami katalogowymi oraz lista wejść/wyjść PLC.
+* [`SEE_ELECTRICAL_GUIDE.md`](/MD_Notes/SEE_ELECTRICAL_GUIDE.md) – Instrukcja krok po kroku rysowania 4 arkuszy schematów zasadniczych, zabudowy rozdzielnicy 2D oraz generowania raportów w SEE Electrical.
+* [`INTOUCH_GUIDE.md`](/MD_Notes/INTOUCH_GUIDE.md) – Instrukcja wykonania aplikacji SCADA w InTouch (baza 21 tagów, pełny kod skryptu symulacyjnego, logowanie 2 użytkowników, obsługa alarmów bieżących i historycznych).
 
 ---
 
